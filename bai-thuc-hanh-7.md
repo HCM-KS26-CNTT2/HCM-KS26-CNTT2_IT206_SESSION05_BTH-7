@@ -1,6 +1,6 @@
 # [Bài thực hành 7] Xây dựng kế hoạch tổ chức sự kiện công nghệ AI Innovation Day
-## Frompt hoàn chỉnh
-### Frompt 1:
+## Prompt hoàn chỉnh
+### Prompt 1:
 Bạn là Trưởng ban Tổ chức Sự kiện Công nghệ của trường Đại học.
 
 Câu lạc bộ dự kiến tổ chức sự kiện 'AI Innovation Day' với các thông số cố định:
@@ -15,7 +15,7 @@ Hãy sử dụng tư duy từng bước (Chain-of-Thought) để:
 2.  Đề xuất tỷ trọng phân bổ ngân sách an toàn (bắt buộc có quỹ dự phòng) sao cho tổng chi ≤ 15.000.000 đồng.
 3.  Nhận diện 4 rủi ro lớn nhất và giải pháp phòng ngừa."
 ---
-### Frompt 2:
+### Prompt 2:
 Dựa trên kết quả phân tích khả thi ở [Kết quả đầu ra 1], hãy xây dựng chi tiết:
 
 1. Lịch trình chương trình 1 ngày (từ 07:30 đến 17:00) kết hợp hài hòa giữa chia sẻ kiến thức (Talkshow) và trải nghiệm thực hành (Workshop/Booth AI).
@@ -23,19 +23,19 @@ Dựa trên kết quả phân tích khả thi ở [Kết quả đầu ra 1], hã
 2. Bảng dự toán ngân sách chi tiết cho 150 sinh viên với tổng chi phí ≤ 15.000.000 đồng (đã bao gồm quỹ dự phòng), khớp 100% với các hoạt động trong lịch trình
 
 ---
-### Frompt 3:
+### Prompt 3:
 
 Dựa trên [Kết quả đầu ra 2A] và [Kết quả đầu ra 2B], hãy lập:
 1.  Bảng phân công nhiệm vụ chi tiết cho đúng 10 nhân sự của CLB (đảm bảo không thừa/thiếu người, rõ trách nhiệm trước và trong sự kiện).
 2.  Kế hoạch truyền thông trước sự kiện (14 ngày) trên các kênh sinh viên để thu hút đủ 150 người tham gia
 
 ---
-### Frompt 4:
+### Prompt 4:
 Hãy tổng hợp toàn bộ dữ liệu đã thống nhất từ [Kết quả đầu ra 1] đến [Kết quả đầu ra 3B] thành một Bản tóm tắt ngữ cảnh dự án (Project Context Summary) ngắn gọn, có cấu trúc rõ ràng (gồm: Thông số cố định, Quyết định cốt lõi, Phân bổ ngân sách, Phân công nhân sự và Mốc thời gian) để tôi sao chép sang một cửa sổ hội thoại mới nhằm tiếp tục kiểm tra và hiệu chỉnh kế hoạch mà không bị mất dữ liệu
 
 ---
 ## Kết quả của AI
-### Frompt 1:
+### Prompt 1:
 # Phân tích & Kế hoạch Tổ chức Sự kiện "AI Innovation Day"
 
 ## 1. Phân tích tính khả thi (Chain-of-Thought)
@@ -101,7 +101,7 @@ Hãy tổng hợp toàn bộ dữ liệu đã thống nhất từ [Kết quả �
   * Thu thập slide và kịch bản demo trước 2 ngày để chạy thử trên máy của BTC.
   * Chuẩn bị đầy đủ cáp chuyển đổi (HDMI, Type-C) và yêu cầu diễn giả quay sẵn video màn hình các bước demo AI quan trọng để phát phòng hờ.
 ----
-### Frompt 2:
+### Prompt 2:
 # Kế Hoạch Triển Khai Chi Tiết Sự Kiện "AI Innovation Day"
 
 ## 1. Lịch trình chương trình 1 ngày (07:30 – 17:00)
@@ -157,7 +157,7 @@ Hãy tổng hợp toàn bộ dữ liệu đã thống nhất từ [Kết quả �
 
 > **Lưu ý vận hành:** Giấy chứng nhận (Certificate) cuối giờ (16:25) sẽ được thiết kế và gửi tự động qua Email dưới dạng **E-Certificate (PDF)** ngay sau khi sinh viên quét mã QR Check-out để tiết kiệm 100% chi phí in ấn và tránh ùn tắc lúc ra về.
 ---
-### Frompt 3:
+### Prompt 3:
 # Phân Công Nhân Sự & Kế Hoạch Truyền Thông Sự Kiện "AI Innovation Day"
 
 ## 1. Bảng phân công nhiệm vụ chi tiết cho 10 nhân sự CLB
@@ -222,7 +222,7 @@ Hãy tổng hợp toàn bộ dữ liệu đã thống nhất từ [Kết quả �
 * **Ngày T-0 (Ngày diễn ra sự kiện):**
   * **Kênh:** Live update trên Fanpage (Story/Reels ngắn không khí đón khách lúc 07:30 để tạo hiệu ứng lan tỏa, chuẩn bị cho các mùa sự kiện tiếp theo).
 ---
-### Frompt 4:
+### Prompt 4:
 # PROJECT CONTEXT SUMMARY: SỰ KIỆN "AI INNOVATION DAY"
 
 ## 1. Thông số cố định (Fixed Parameters)
